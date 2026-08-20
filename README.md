@@ -1,4 +1,4 @@
-# Campusen RAG — Assistant d'orientation pour bacheliers
+# Campusen RAG: Assistant d'orientation pour bacheliers
 
 Assistant conversationnel basé sur un RAG (Retrieval-Augmented Generation), construit
 étape par étape pour comprendre chaque brique, pas juste copier du code.
