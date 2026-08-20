@@ -8,14 +8,14 @@ Assistant conversationnel basé sur un RAG (Retrieval-Augmented Generation), con
 - [x] Phase 0 — Comprendre les concepts (LLM, RAG, embedding, chunk, retrieval)
 - [x] Phase 1 — Structure du projet + installation
 - [x] Phase 2 — Données de test créées (data/raw/) — à remplacer par les vraies données Campusen
-- [x ] Phase 3 — Nettoyer les documents
-- [ x] Phase 4 — Chunking
-- [ x] Phase 5 — Embeddings
-- [ x] Phase 6 — Base vectorielle
-- [ x] Phase 7 — Assembler le RAG (retrieval + prompt + LLM)
-- [ x] Phase 8 — API backend
-- [ x] Phase 9 — Interface web
-- [ x] Phase 10 — Tests
+- [x] Phase 3 — Nettoyer les documents
+- [x] Phase 4 — Chunking
+- [x] Phase 5 — Embeddings
+- [x] Phase 6 — Base vectorielle
+- [x] Phase 7 — Assembler le RAG (retrieval + prompt + LLM)
+- [x] Phase 8 — API backend
+- [x] Phase 9 — Interface web
+- [x] Phase 10 — Tests
 
 ## Stack
 
