@@ -1,0 +1,20 @@
+SOURCE URL : https://ufrset.univ-thies.sn/departements/departement-informatique/
+ÉTABLISSEMENT : UIDT
+CATÉGORIE : universite
+
+Département d’Informatique
+Bienvenue sur la page du Département de Mathématiques et Informatique de l’Université Iba Der Thiam de Thiès (UIDT). Notre département s’engage à offrir une formation de qualité, orientée vers l’excellence académique et la préparation au monde professionnel.
+Présentation
+Le Département d’Informatique de l’UFR Sciences et Technologies est une référence dans la formation et la recherche en informatique. Depuis sa création, le département s’est engagé à offrir un enseignement de qualité, adapté aux évolutions constantes du domaine numérique. Notre département propose une gamme variée de formations en informatique, allant de la licence au master, couvrant des domaines clés tels que le génie logiciel, les systèmes d’information, l’intelligence artificielle, et en réseau et télécommunication
+Programmes de Formation
+Licence en Génie Logiciel
+Une formation complète axée sur la conception, le développement et la maintenance de logiciels. Les étudiants acquièrent des compétences solides en programmation, ingénierie logicielle, et gestion de projets, leur permettant d’intégrer des entreprises de développement logiciel, ou de poursuivre des études avancées.
+Licence en Réseaux et Télécommunications
+Ce programme couvre les fondamentaux des réseaux informatiques, des systèmes de communication et de la sécurité des réseaux. Les étudiants développent des compétences pratiques pour gérer et optimiser les infrastructures réseau, répondant ainsi aux besoins croissants des entreprises en matière de connectivité.
+Masters spécialisés
+Master en Génie Logiciel : Approfondissement des techniques avancées de développement logiciel, d’architecture logicielle, et de gestion de projets complexes. Master en Réseaux et Télécommunications : Formation avancée en gestion des réseaux, cybersécurité, et systèmes de télécommunication. Master en Intelligence Artificielle : Spécialisation sur les technologies d’IA, incluant le Machine Learning, le traitement de données massives (Big Data), et l’automatisation intelligente.
+Missions du Département
+- Former des experts en génie logiciel, réseaux et télécommunications, avec des compétences solides en développement de systèmes informatiques et en gestion de projets technologiques.
+- Assurer une maîtrise des technologies de pointe telles que l'intelligence artificielle, le Big Data, la cybersécurité, et les systèmes embarqués pour répondre aux besoins des industries numériques.
+- Encourager la recherche appliquée et l'innovation dans les domaines stratégiques de l'informatique, tout en collaborant avec des laboratoires de recherche et des entreprises technologiques.
+- Collaborer avec des acteurs locaux et internationaux pour adapter les formations aux évolutions technologiques et favoriser l'insertion professionnelle des étudiants.

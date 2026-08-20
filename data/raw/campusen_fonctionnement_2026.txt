@@ -1,0 +1,50 @@
+SOURCE URL : https://orientation.campusen.sn/
+ÉTABLISSEMENT : Campusen
+CATÉGORIE : officiel
+
+CAMPUSEN — Fonctionnement et calendrier 2026
+(Sources : APS, Le Soleil, allAfrica, SenCampus — août 2026)
+
+Campusen est la plateforme nationale d'orientation pilotée par le Ministère
+de l'Enseignement supérieur, de la Recherche et de l'Innovation (MESRI) du
+Sénégal. Elle centralise l'orientation, les préinscriptions et le suivi des
+parcours des nouveaux bacheliers vers les établissements publics.
+
+Deux adresses à ne pas confondre :
+- campusen.sn : site vitrine (catalogue des formations, actualités)
+- orientation.campusen.sn : la vraie procédure (création de compte, choix,
+  affectation)
+
+Calendrier de la campagne 2026 :
+La plateforme a ouvert le lundi 17 août 2026 pour les bacheliers admis à la
+session normale du Bac 2026. La date limite pour formuler et valider ses
+choix est fixée au dimanche 13 septembre 2026 à 23h59 (délai de rigueur).
+
+Étapes :
+1. Se rendre sur orientation.campusen.sn
+2. Créer un compte avec les informations du baccalauréat (numéro de table,
+   année d'obtention, date de naissance) : cela génère l'INE.
+3. L'INE (Numéro d'Identification Nationale de l'Étudiant) est l'identifiant
+   unique de l'étudiant pour toute sa vie universitaire — à conserver
+   précieusement, il ne doit être communiqué à personne.
+4. Formuler ses choix d'orientation, classés par ordre de préférence
+   obligatoire (l'ordre pilote directement l'affectation).
+5. Suivre l'état de son dossier depuis son espace personnel.
+
+Deux dossiers distincts et obligatoires :
+- Dossier universités publiques : 18 choix au total.
+- Dossier ISEP : 18 choix au total (3 choix par institut).
+Un candidat peut soumettre les deux dossiers en parallèle.
+
+Points importants :
+- L'affectation ne vaut pas inscription : après affectation, une inscription
+  administrative reste à faire auprès de l'établissement, dans le délai qu'il
+  fixe.
+- Il est strictement interdit de passer par un intermédiaire ou une
+  association pour effectuer sa demande d'orientation — les contrevenants
+  risquent de ne pas être orientés.
+- Les frais d'inscription en Licence dans une université publique s'élèvent
+  à 25 000 FCFA (plus 500 FCFA de frais de transfert), payables auprès des
+  prestataires de transfert d'argent agréés par l'État.
+- En cas de problème avec la reconnaissance des informations du Bac,
+  contacter le support Campusen.
